@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+numpy<2
+scikit-learn>=1.3
+tqdm
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
